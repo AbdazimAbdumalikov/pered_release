@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660574070315",
+    "project_id": "pushka-bd22b",
+    "storage_bucket": "pushka-bd22b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660574070315:android:dfa3c6741fe49061602c6e",
+        "android_client_info": {
+          "package_name": "com.satti.tms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgs7dB9qYPEJA6K1F4rXjNsRi41ImbsSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
